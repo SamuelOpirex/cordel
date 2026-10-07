@@ -1,5 +1,7 @@
 # Cordel
 
+**[Descargar Cordel para Windows 10/11 ›](https://github.com/SamuelOpirex/cordel/releases/latest)** · portable, sin instalar nada.
+
 Port para Windows de [Tendedero](https://github.com/alejandrobujan/tendedero) (macOS, de Alejandro Buján, MIT).
 Por su licencia, las versiones modificadas no pueden usar el nombre ni el icono de Tendedero, así que esta se llama Cordel.
 
