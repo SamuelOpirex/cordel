@@ -53,3 +53,17 @@ Ajustes útiles: medidas del cordel y de la pinza en la clase `Layout` (`LineVie
 ## Licencia
 
 MIT, como el original. Ver `LICENSE`. El nombre y el icono de Tendedero no se incluyen.
+El logotipo de Opirex (`docs/opirex*.png`) es una marca de Opirex y no está cubierto por la licencia MIT.
+
+<br>
+
+<p align="center">
+  <a href="https://opirex.es">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="docs/opirex-blanco.png">
+      <img src="docs/opirex.png" width="180" alt="Opirex">
+    </picture>
+  </a>
+  <br>
+  <sub>Hecho por <a href="https://opirex.es">Opirex</a>.</sub>
+</p>
